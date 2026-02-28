@@ -1,6 +1,6 @@
 # 🏠 Bengaluru Real Estate Investment Analysis & ML Dashboard
 
-![image alt](https://github.com/suhailapathoor35-dotcom/Banglore-realestate/blob/1161de187acb29214347590a7b1acab26e5b2c4b/dashboard%20real%20estate.png)
+![image alt](https://github.com/suhailapathoor35-dotcom/Banglore-realestate/blob/971bb958b8844203c9c31073961634d72acf6740/dashboard%20bangluru.png)
 
 ## Dashboard
 📌 Project Overview
@@ -47,6 +47,21 @@ roi_5yr (5-Year Return on Investment simulation)
 investment_score (normalized scoring metric)
 
 Eliminated extreme BHK and sqft anomalies
+![image alt](https://github.com/suhailapathoor35-dotcom/Banglore-realestate/blob/971bb958b8844203c9c31073961634d72acf6740/page1st.png)
+![image alt](https://github.com/suhailapathoor35-dotcom/Banglore-realestate/blob/971bb958b8844203c9c31073961634d72acf6740/IMAGE2.png)
+## 🤖 Machine Learning Model
+
+Algorithm Used: Linear Regression
+
+Target Variable: Price
+
+Features: total_sqft, bath, bhk, price_per_sqft
+
+Model Performance:
+
+R² Score: 0.71
+
+The model explains 71% of the variance in property prices based on selected features.
 ## 📈 Dashboard Highlights (Power BI)
 
 The interactive dashboard includes:
